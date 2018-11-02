@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="29"
-  DTS:VersionGUID="{DF70B371-A84E-4C80-A093-4D71BC55E459}">
+  DTS:VersionBuild="31"
+  DTS:VersionGUID="{7F6EDCD4-81D2-4C39-A533-88AAF6EAB9AF}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -1050,8 +1050,8 @@
       <DTS:ForEachVariableMappings>
         <DTS:ForEachVariableMapping
           DTS:CreationName=""
-          DTS:DTSID="{32299E8D-399E-4026-9D40-9BF5A6A9C0CC}"
-          DTS:ObjectName="{32299E8D-399E-4026-9D40-9BF5A6A9C0CC}"
+          DTS:DTSID="{EAA6E7C0-DF08-4873-A761-0F444348EA77}"
+          DTS:ObjectName="{EAA6E7C0-DF08-4873-A761-0F444348EA77}"
           DTS:ValueIndex="0"
           DTS:VariableName="User::filePath" />
       </DTS:ForEachVariableMappings>
